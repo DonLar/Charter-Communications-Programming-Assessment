@@ -1,0 +1,4 @@
+Hello
+this is a testfile
+I'm testing if there are any MAC addresses in this file
+Unfortunately, there shouldn't be
